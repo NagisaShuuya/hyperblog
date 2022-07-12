@@ -7,3 +7,5 @@ Hoy hablaremos de su historia.
 Cuando no le conoces parece serio y amargado pero no lo es.
 
 Hoy está estudiando git.
+
+Hoy hablaremos de su vida.
